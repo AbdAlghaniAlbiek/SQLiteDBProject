@@ -4,7 +4,7 @@
  <img src="https://github.com/AbdAlghaniAlbiek/SQLiteDBProject/blob/master/SQLiteDBProject/Assets/SQLiteDBIcon.png">
 </p>
 
-![Twitter Follow](https://img.shields.io/twitter/follow/AbdAlbiek?style=social) 
+![Twitter Follow](https://img.shields.io/twitter/follow/AbdAlbiek?style=social) ![GitHub](https://img.shields.io/github/license/AbdAlghaniAlbiek/SQLiteDBProject)
 
 # Table of content
 * [General info](#general-information)
@@ -22,13 +22,13 @@ It's a UWP application that shows how to connects to SQLite database and make th
 
 ## Features
 * Making SQLite DB and create some tables.
-* The created DB has some advantages because the min version for this project is `Fall Creator`. To see the features that has this DB you can check it from [here.](https://github.com/AbdAlghaniAlbiek/SQLiteDBProject/blob/master/SQLiteDBProject/Assets/Screenshots/MainPage.jpg)
+* The created DB has some advantages because the min version for this project is `Fall Creator` update. To see the features that has this DB you can check it from [here.](https://docs.microsoft.com/en-us/windows/uwp/data-access/sqlite-databases)
 * Using the basic CRUD operations like Add, Update or delete on employee class.
 * Templating some controls like textbox, passwordbox, button to give the custom UI that I want.
 
 ## Screenshots
 <p align="center">
-  <img src="https://github.com/AbdAlghaniAlbiek/SQLiteDBProject/tree/master/SQLiteDBProject/Assets/Screenshots">
+  <img src="https://github.com/AbdAlghaniAlbiek/SQLiteDBProject/blob/master/SQLiteDBProject/Assets/Screenshots/MainPage.jpg">
  </p>
  
  ## Setup
