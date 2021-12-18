@@ -16,7 +16,7 @@
   <Properties>
     <DisplayName>SQLiteDBProject</DisplayName>
     <PublisherDisplayName>User</PublisherDisplayName>
-    <Logo>Assets\StoreLogo.png</Logo>
+    <Logo>Assets\AppIcons\StoreLogo.png</Logo>
   </Properties>
 
   <Dependencies>
@@ -33,12 +33,12 @@
       EntryPoint="SQLiteDBProject.App">
       <uap:VisualElements
         DisplayName="SQLiteDBProject"
-        Square150x150Logo="Assets\Square150x150Logo.png"
-        Square44x44Logo="Assets\Square44x44Logo.png"
+        Square150x150Logo="Assets\AppIcons\Square150x150Logo.png"
+        Square44x44Logo="Assets\AppIcons\Square44x44Logo.png"
         Description="SQLiteDBProject"
         BackgroundColor="transparent">
-        <uap:DefaultTile Wide310x150Logo="Assets\Wide310x150Logo.png"/>
-        <uap:SplashScreen Image="Assets\SplashScreen.png" />
+        <uap:DefaultTile Wide310x150Logo="Assets\AppIcons\Wide310x150Logo.png" Square71x71Logo="Assets\AppIcons\SmallTile.png" Square310x310Logo="Assets\AppIcons\LargeTile.png" ShortName="SQLiteDB"/>
+        <uap:SplashScreen Image="Assets\AppIcons\SplashScreen.png"  BackgroundColor="transparent"/>
       </uap:VisualElements>
     </Application>
   </Applications>
