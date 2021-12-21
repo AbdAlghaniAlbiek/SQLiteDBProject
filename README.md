@@ -1,7 +1,7 @@
 # SQLiteDBProject
 > The icon from pngTree site
-<p align="center" with="300" height="300">
- <img  src="https://github.com/AbdAlghaniAlbiek/SQLiteDBProject/blob/master/SQLiteDBProject/Assets/SQLiteDBIcon.png">
+<p align="center" >
+ <img width="300" height="300" src="https://github.com/AbdAlghaniAlbiek/SQLiteDBProject/blob/master/SQLiteDBProject/Assets/SQLiteDBIcon.png">
 </p>
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/AbdAlbiek?style=social) ![GitHub](https://img.shields.io/github/license/AbdAlghaniAlbiek/SQLiteDBProject)
